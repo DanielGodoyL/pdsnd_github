@@ -146,6 +146,8 @@ def station_stats(df):
     # based on the knowledge forum
 
 def trip_duration_stats(df):
+   
+   
     """Displays statistics on the total and average trip duration."""
 
     print('\nCalculating Trip Duration...\n')
