@@ -4,7 +4,7 @@
 16/09/2022.
 
 ### Project Title
-bikeshare
+Bikeshare
 
 ### Description
 This project allows to analize bikeshare data from 3 different cities
