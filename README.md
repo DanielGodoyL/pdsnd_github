@@ -4,10 +4,10 @@
 09/09/2022.
 
 ### Project Title
-bikeshare
+Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+This project allows to study the bikeshare stats in 3 cities
 
 ### Files used
 bikeshare - chicago dataset -washington dataset- new york dataset
